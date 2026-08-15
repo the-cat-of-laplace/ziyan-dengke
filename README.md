@@ -28,4 +28,4 @@
 - 照片墙（提供照片即可加）
 - 背景音乐（喜庆 BGM + 静音开关）
 
-线上地址：https://the-cat-of-laplace.github.io/ziyan-jinbang/
+线上地址：https://the-cat-of-laplace.github.io/ziyan-dengke/
